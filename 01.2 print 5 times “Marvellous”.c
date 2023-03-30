@@ -1,6 +1,6 @@
 #include<stdio.h>
 void Display()
-{
+{    
     int i = 0;
 
    for(i = 1; i<= 5 ;i++)
@@ -8,6 +8,7 @@ void Display()
         printf("Marvellous\n");
     }
 }
+
 int main()
 {
     Display();
